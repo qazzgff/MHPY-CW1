@@ -1,1 +1,1 @@
-import process_covid.py
+import process_covid
